@@ -1,2 +1,2 @@
-# -BranchMe
+# BranchMe
 Übung
